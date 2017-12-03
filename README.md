@@ -1,4 +1,4 @@
-# NGINX Docker Image
+# Turbo Lua Docker Image
 
 Docker image for Turbo, based on Alpine Linux.
 
