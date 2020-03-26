@@ -1,7 +1,7 @@
-FROM alpine:edge
+FROM alpine:3.11
 
 LABEL maintainer="andre.burgaud@gmail.com" \
-      lua-turbo.version="2.1.1-r1"
+      lua-turbo.version="2.1.3-r2"
 
 RUN apk add --no-cache lua-turbo
 
